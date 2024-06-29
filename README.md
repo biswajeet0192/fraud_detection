@@ -10,7 +10,11 @@ git clone https://github.com/biswajeetbehera123/fraud_detection
 - Use python3
 - Install requirements:
 ```
-pip install -r requirements.txt
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install sklearn
 ```
 - Run the code.
 
