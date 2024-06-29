@@ -1,6 +1,8 @@
-
 # Fraud Detection in Financial Transaction
 
+## Download the dataset
+
+Download the data from: [Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## How to run on local environment:
 - CLone the repo
